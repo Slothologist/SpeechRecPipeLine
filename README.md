@@ -3,7 +3,7 @@ Pipeline for speech recognition
 
 ## Principles
 
-- All audio is transmitted between stages via Jack audio (TODO: find a way to reliably match ssl to recognized speech)
+- All audio is transmitted between most stages via Jack audio (TODO: find a way to reliably match ssl to recognized speech)
 - 
 
 ## Stages
@@ -15,7 +15,10 @@ Pipeline for speech recognition
    - ODAS, needs to be adjusted
 
 1. Segmentation
-   - no software available yet
+   - AudioSegmenter (WIP)
 
 1. Speech recognition
+   - no software available yet
+
+1. Natural Language Preprocessing
    - no software available yet

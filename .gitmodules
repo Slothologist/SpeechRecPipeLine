@@ -1,0 +1,3 @@
+[submodule "stage3/AudioSegmenter"]
+	path = stage3/AudioSegmenter
+	url = https://github.com/Slothologist/AudioSegmenter.git
