@@ -1,3 +1,6 @@
 [submodule "stage3/AudioSegmenter"]
 	path = stage3/AudioSegmenter
 	url = https://github.com/Slothologist/AudioSegmenter.git
+[submodule "msgs/SpeechRecPipelineMsgs"]
+	path = msgs/SpeechRecPipelineMsgs
+	url = https://github.com/Slothologist/SpeechRecPipelineMsgs.git
